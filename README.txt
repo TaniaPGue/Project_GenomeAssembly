@@ -1,1 +1,2 @@
-Genome Assembly 
+Project: Genome Assembly
+Maitainer: Tania Guerrero  
