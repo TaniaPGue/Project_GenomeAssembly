@@ -1,2 +1,4 @@
 Project: Genome Assembly
-Maitainer: Tania Guerrero  
+Maitainer: Tania Guerrero
+
+Date Started: 12 Aug 2021  
